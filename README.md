@@ -1,2 +1,2 @@
 # DigitalPaymentApp
- Digital Payment Application for National AgriFunds Hackathon
+ Digital Payment Application for National Agrifunds Hackathon
